@@ -1,0 +1,11 @@
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\bin\Debug\CreateFolder.exe.config
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\bin\Debug\CreateFolder.exe
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\bin\Debug\CreateFolder.pdb
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\obj\Debug\CreateFolder.csproj.AssemblyReference.cache
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\obj\Debug\CreateFolder.csproj.SuggestedBindingRedirects.cache
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\obj\Debug\CreateFolder.FormMain.resources
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\obj\Debug\CreateFolder.Properties.Resources.resources
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\obj\Debug\CreateFolder.csproj.GenerateResource.cache
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\obj\Debug\CreateFolder.csproj.CoreCompileInputs.cache
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\obj\Debug\CreateFolder.exe
+I:\csharpegitim2katmanlimimari\CreateFolder\CreateFolder\obj\Debug\CreateFolder.pdb
