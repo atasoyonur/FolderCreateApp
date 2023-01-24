@@ -222,7 +222,7 @@
             this.btnGet.Name = "btnGet";
             this.btnGet.Size = new System.Drawing.Size(248, 34);
             this.btnGet.TabIndex = 2;
-            this.btnGet.Text = "Klasörleri Adlarını Getir";
+            this.btnGet.Text = "Klasörlerin Adlarını Getir";
             this.btnGet.UseVisualStyleBackColor = true;
             this.btnGet.Click += new System.EventHandler(this.btnGet_Click);
             // 
